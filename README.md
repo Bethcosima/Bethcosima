@@ -63,6 +63,6 @@ Contacto
 <div>
 
 <a href="https://github.com/Bethcosima" ><img alt="Github" src="https://img.shields.io/badge/github%20-%20black?logo=github&link=https%3A%2F%2Fgithub.com%2F"></a>
-<a href="https://www.linkedin.com/in/elizabeth-fraire-a830bb234/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/elizabeth-fraire-a830bb234"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
 
 </div>
