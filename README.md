@@ -53,7 +53,7 @@ Proyectos
 <div>
 
  Mis proyectos son  [ML_OPS_PROJECT](https://github.com/Bethcosima/ML_OPS_PROJECT.git)  [PIDA_SiniestrosViales](https://github.com/Bethcosima/PIDA_SiniestrosViales.git) 
- [RonaldoStats]([https://github.com/Bethcosima/RonaldoStats](https://github.com/Bethcosima/RonaldoStats.git)
+ [RonaldoStats](https://github.com/Bethcosima/RonaldoStats.git)
 </div>
 
 <h1>
